@@ -1,0 +1,38 @@
+
+	<html>
+	<!--
+	
+	
+	T O N E A V I I .
+	
+	
+	-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>TONEAVII</title> 
+	<meta property="og:url" content="http://toneavii.com“ />
+	<meta property="og:title" content=“TONEAVII” />
+	<meta property="og:description" content=“TONE.” />
+	<meta property="og:image" content="https://i.ibb.co/pJ2PKgC/Nectar.png" />
+	<meta name="description" content=“Toneavii.”> 
+	<style>
+	body{
+	background-color:#000000;
+	}
+	#M{
+	width: 32px;
+	height: 32px;
+	border-radius: 128px;
+	border: solid 16px #ffffff;
+	margin-top: -32px;
+	margin-left: -32px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	}
+	</style>
+	</head>
+	<body>
+	<a href="mailto:toneavii@gmail.com”><div id="M"></div></a>
+	</body>
+	</html>
